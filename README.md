@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Origin Chain
 
 <p align="center">
@@ -138,7 +139,7 @@ The contract owner deploys the contract and is responsible for authorizing vario
     ```
 
     The app gets hosted by default at port 3000.
-
+xX
 ### Step 4: Connect MetaMask with Ganache
 
 1. Start Ganache: Start the Ganache application and note the RPC server URL and port number.
